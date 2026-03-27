@@ -13,7 +13,9 @@ Questo repository contiene un'esercitazione strutturata in 4 fasi per il consoli
 - **Workflow**: Implementazione di Scikit-Learn Pipeline per garantire la riproducibilità ed evitare il data leakage.
 
 ## Visualizzazioni
-![Istogrammi pre/post imputazione](images/imputazione0.png) (images/imputazione.png)
+![Istogrammi pre/post imputazione](images/imputazione0.png)
+![Istogrammi pre/post imputazione](images/imputazione.png)
 ![Box plot per l'analisi dello scaling](images/scaling.png)
-![Scree Plot e Scatter Plot delle componenti principali](images/scree_plot.png) (images/scatter_plot.png)
+![Scree Plot e Scatter Plot delle componenti principali](images/scree_plot.png)
+![Scree Plot e Scatter Plot delle componenti principali](images/scatter_plot.png)
 ![Grafici di confronto per il bilanciamento delle classi tramite SMOTE](images/smote.png)
